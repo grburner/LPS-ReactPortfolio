@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name":"Gary Burner",
+    "occupation":"Web Developer",
+    "description":"and recent graduate from Penn's LPS Web Development bootcamp.",
+    "image":"headshot.png",
+    "bio":"At each stop in my career I've strived to improve processes, incorporate data into decision making, and find creative solutions to complex problems. After enrolling in Penn LPS, an intensive 24 week full stack JavaScript course, I am confident that I have the tools necessary to build these solutions from the ground up.",
+    "contactmessage":"Please feel free to email me if you would like to work together or just to say hi.",
+    "email": "grburner@gmail.com",
+    "address":{
+      "city":"Philadelphia",
+      "state":"Pennsylvania"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/gburner",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/grburner",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Penn LPS",
+        "degree":"Web Development Bootcamp",
+        "graduated":"May - Oct 2020",
+        "description":"A 24 week long bootcamp dedicated to designing and building web applications. Skills learned include HTML5, CSS3, JavaScript, jQuery, Bootstrap, Node.js, MySQL, MongoDB, Express, and React."
+      },
+      {
+        "school":"Pennsylvania State University",
+        "degree":"Finance",
+        "graduated":"May 2012"
+      }
+    ],
+    "work":[
+      {
+        "company":"DiBruno Brothers",
+        "title":"Bottleshop Manager",
+        "years":"Sept 2018 - Present"
+      },
+      {
+        "company":"Red Spark",
+        "title":"Publisher Manager | 50onRed & Tiller",
+        "years":"Feb 2016 - Mar 2018"
+      },
+      {
+        "company":"Food Underground",
+        "title":"CoOwner - COO",
+        "years":"Mar 2015 - Feb 2016"
+      },
+      {
+        "company":"PNC Bank",
+        "title":"Treasury Management Sales",
+        "years":"Aug 2012 - Mar 2015"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"Git is my version control tool of choice. We used Git extensively on all group projects during Penn LPS"
+      },
+      {
+        "name":"React",
+        "description":"I love using React - it's my front end framework of choice. I've built a reporting dashboard and a marketplace app in React."
+      },
+      {
+        "name":"Mongo DB",
+        "description":"I am still getting comfortable with Mongo, but I enjoy the flexibility it offers."
+      },
+      {
+        "name":"SQL",
+        "description":"SQL peaked my interest in web development. I first learned to write SQL queries at Red Spark and still enjoy using SQL."
+      },
+      {
+        "name":"Bootstrap",
+        "description":"I'm most familiar with Bootstrap and it's always my go-to to get something off of the ground quickly."
+      },
+      {
+        "name": "NodeJs",
+        "description": "Node is my serverside scripting language of choice. The majority of my projects I've built use MERN and I always enjoy the flexibility Node offers."      
+      },
+      {
+        "name": "Heroku",
+        "description": "We've deployed all of our class projects on Heroku, and I'm happy to use it for a quick and simple solution."      
+      },
+      {
+        "name": "AWS",
+        "description": "I'm new to AWS but I's facinated by the flexibility and varietly of solutions AWS offers. I'm looking forward to learing, and using, AWS more."      
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://thawing-chamber-66854.herokuapp.com/"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"https://polar-journey-68111.herokuapp.com/"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"https://db-dash.herokuapp.com/"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://thawing-chamber-66854.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
