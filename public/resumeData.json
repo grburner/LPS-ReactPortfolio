@@ -2,9 +2,9 @@
   "main": {
     "name":"Gary Burner",
     "occupation":"Web Developer",
-    "description":"and recent graduate from Penn's LPS Web Development bootcamp.",
+    "description":"and recent graduate from Penn's LPS Web Development bootcamp",
     "image":"headshot.png",
-    "bio":"At each stop in my career I've strived to improve processes, incorporate data into decision making, and find creative solutions to complex problems. After enrolling in Penn LPS, an intensive 24 week full stack JavaScript course, I am confident that I have the tools necessary to build these solutions from the ground up.",
+    "bio":"I recently graduated the University of Pennsylvania’s Full Stack Web Development Bootcamp. After gaining unique experiences in multiple industries over the past 8 years I decided that web development and data analysis best fit my skillset and passion for always learning. The Penn LPS bootcamp provided me with a 6 month, deep dive into the MERN stack, with a focus on teamwork in a remote environment and creative problem solving.",
     "contactmessage":"Please feel free to email me if you would like to work together or just to say hi.",
     "email": "grburner@gmail.com",
     "address":{
@@ -12,7 +12,7 @@
       "state":"Pennsylvania"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"./Resume_20201001.pdf",
     "social":[
       {
         "name":"linkedin",
@@ -100,28 +100,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://thawing-chamber-66854.herokuapp.com/"
+        "title":"Wine Management Dashboard",
+        "category":"This dashboard helps me with my current job by creating better data visulization and reporting",
+        "image":"stat-dash.png",
+        "url":"https://project-2-group1.herokuapp.com/7"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
+        "title":"Fitness Tracker App",
+        "category":"An app to track workouts and individual exercises",
+        "image":"fitness-dash.png",
         "url":"https://polar-journey-68111.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"https://db-dash.herokuapp.com/"
+        "title":"Yelp Bar & Restaurant Planner",
+        "category":"We built an app to use the power of Yelp to plan a night out with friends",
+        "image":"yelp-planner.png",
+        "url":"https://grburner.github.io/Yelp-Bar-Restaurant-Finder/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"https://thawing-chamber-66854.herokuapp.com/"
+        "title":"Weather Reports",
+        "category":"Get the current, future and previous weather in your area!",
+        "image":"weather.png",
+        "url":"https://grburner.github.io/Weather-App/"
       }
     ]
   },
