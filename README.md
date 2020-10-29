@@ -5,11 +5,6 @@
 
 ## Author: grburner
 
-
-<p align="center">
-  <img alt="README Generator in Action" src="screenshot.png">
-</p>
-
 ## Table of Contents
 <!--ts-->
 1. [ Project Description ](#desc)
